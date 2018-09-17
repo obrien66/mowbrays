@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Mowbray's"
+title:  "House soccer game against McHugh's"
 date:   2018-09-17 19:08:01 -0400
 categories: house soccer
 ---
