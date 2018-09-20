@@ -6,4 +6,4 @@
 layout: home
 ---
 
-![banner]({{site.permalink}}/images/banner.jpg)
+![banner]({{site.baseurl}}/images/banner.jpg)
