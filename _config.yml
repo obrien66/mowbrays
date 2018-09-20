@@ -16,10 +16,12 @@
 title: Mowbray's
 email: nicholas.obrien@ucc.on.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  The greatest house at Upper Canada College.
+  The greatest house at Upper Canada College. This site is still under some developement so if everything breaks it should only be for a few moments
 baseurl: "/mowbrays" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+# Dont play with these settings below because I have no idea how they work.
+# IF YOU ARE GOING TO MESS WITH IT READ THE JEKYLL DOCUMENTATION
 
 # Build settings
 markdown: kramdown
