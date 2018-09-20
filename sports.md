@@ -12,4 +12,5 @@ Our first game is September 27th. This is all the info we have right now but thi
 
 ## House Soccer
 
-Waiting on that schedule too 😕
+![Senior House Soccer Schedule](images/s_house_soccer_1.png)
+![Senior House Soccer Schedule](images/s_house_soccer_2.png)
