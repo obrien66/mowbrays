@@ -16,7 +16,7 @@
 title: Mowbray's
 email: nicholas.obrien@ucc.on.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  The greatest house at Upper Canada College. This site is still under some developement so if everything breaks it should only be for a few moments
+  The greatest house at Upper Canada College.
 baseurl: "/mowbrays" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
